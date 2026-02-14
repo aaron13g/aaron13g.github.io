@@ -1,7 +1,7 @@
---
+---
 layout: page
 title: Getting Started
-permalink: /getstarted/
+permalink: /getstarted
 ---
 
 Getting started is *literally* as easy as 1-2-3 :smile:
