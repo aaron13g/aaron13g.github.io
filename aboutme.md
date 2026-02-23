@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What I do these days
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Aaron Graifman
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love to learn
+- I love to solve problems
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I attended Diablo Valley College and received:
+- AS/S in Nutrition
+- AS/S in Mathematics
+- Certification in Advanced C++ Programming
+
+I attended Arizona State University and received:
+- BS/S Data Science
+-   Minor in Philosophy
+-   Emphasis in Behavioral Science
+
+I am currently working on **MS in Program Evaluation and Data Analytics** via ASU Online
