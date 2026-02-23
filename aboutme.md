@@ -1,25 +1,39 @@
 ---
 layout: page
-title: About me
-subtitle: What I do these days
+title: Aaron Graifman
+subtitle: Data Analytics | Program Evaluation | Decision Systems
 ---
 
-My name is Aaron Graifman
+## About
 
-- I love to learn
-- I love to solve problems
+I work in a county Employment & Human Services data unit, where I focus on data analysis, visualization, and structured problem-solving.
 
+I am currently completing an M.S. in Program Evaluation & Data Analytics at Arizona State University.
 
-### My story
+My work involves translating complex program data into clear analytical outputs that support operational and policy decisions.
 
-I attended Diablo Valley College and received:
-- AS/S in Nutrition
-- AS/S in Mathematics
-- Certification in Advanced C++ Programming
+---
 
-I attended Arizona State University and received:
-- BS/S Data Science
--   Minor in Philosophy
--   Emphasis in Behavioral Science
+## Education
 
-I am currently working on **MS in Program Evaluation and Data Analytics** via ASU Online
+**Arizona State University**  
+- M.S. Program Evaluation & Data Analytics (in progress)  
+- B.S. Data Science  
+- Minor in Philosophy  
+- Emphasis in Behavioral Science  
+
+**Diablo Valley College**  
+- A.S. Mathematics  
+- A.S. Nutrition  
+- Certification in Advanced C++ Programming  
+
+---
+
+## In Progress Learning
+
+- Applied forecasting models  
+- Clustering and segmentation workflows  
+- Policy and program evaluation  
+- Reproducible analytics using R, Git, and RMarkdown  
+
+This website serves as a public portfolio of my analytical work and ongoing projects. via ASU Online
