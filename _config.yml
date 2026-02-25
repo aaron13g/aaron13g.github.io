@@ -8,6 +8,10 @@ author: Aaron Graifman
 
 navbar-links:
   Home: ""
+  Projects: "projects"
+  Tools: "tools"
+  About: "aboutme"
+  CV: "https://cv.aarongraifman.com"
 
 # --- Logo (disable for now) --- #
 
