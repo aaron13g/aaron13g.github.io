@@ -56,7 +56,7 @@ subtitle: ""
 <div class="home-section">
   <h2>Focus</h2>
   <ul class="home-bullets">
-    <li>Evaluation design grounded in real administrative data systems</li>
+    <li>Evaluation design grounded in administrative data systems</li>
     <li>Equity-aware measurement and implementation analysis</li>
     <li>R (tidyverse), RMarkdown, Git/GitHub</li>
     <li>Forecasting, segmentation, and decision-ready reporting</li>
