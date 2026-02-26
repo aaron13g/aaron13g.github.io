@@ -8,7 +8,7 @@ author: Aaron Graifman
 
 navbar-links:
   Home: ""
-  Projects: "projects"
+  Academic Projects: "academic-projects"
   Tools: "tools"
   About: "aboutme"
   CV: "https://aaron13g.github.io/cv/"
@@ -38,8 +38,6 @@ share-links-active:
   vk: false
 
 post_search: false
-
-url-pretty: "aarongraifman.com"
 
 # --- Colours --- #
 
@@ -82,8 +80,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false
+      social-share: false
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
