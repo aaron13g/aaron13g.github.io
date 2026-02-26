@@ -60,6 +60,11 @@ footer-col: "#F4F4F6"
 footer-text-col: "#444444"
 footer-link-col: "#4B1E3A"
 
+collections:
+  academic_projects:
+    output: true
+    permalink: /academic-projects/:name/
+
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
@@ -88,6 +93,7 @@ defaults:
     values:
       layout: "page"
 
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -103,6 +109,7 @@ plugins:
   - jekyll-sitemap
 site-css:
   - /assets/css/custom.css
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
