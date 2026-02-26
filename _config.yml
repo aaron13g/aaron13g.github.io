@@ -67,7 +67,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 0
 
 kramdown:
   input: GFM
@@ -100,7 +100,6 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 site-css:
   - /assets/css/custom.css
