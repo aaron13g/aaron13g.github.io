@@ -23,34 +23,7 @@ subtitle: ""
 
 <div class="home-section">
   <h2>Featured Academic Work</h2>
-
-  {% assign featured = site.academic_projects | where: "featured", true | sort: "order" %}
-
-  <div class="card-grid">
-    {% for p in featured %}
-      <div class="card">
-        <div class="card__title">
-          <a href="{{ p.url }}">{{ p.short_title | default: p.title }}</a>
-        </div>
-
-        {% if p.meta %}
-          <div class="card__meta">{{ p.meta }}</div>
-        {% endif %}
-
-        <div class="card__text">
-          {% if p.summary %}
-            {{ p.summary }}
-          {% else %}
-            {{ p.excerpt | strip_html | truncate: 170 }}
-          {% endif %}
-        </div>
-
-        <div class="card__links">
-          <a href="{{ p.url }}">Read more →</a>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
+  <p>Featured projects will appear here once the academic projects collection is finalized.</p>
 </div>
 
 <div class="home-section">
