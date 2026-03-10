@@ -5,9 +5,8 @@ subtitle: Selected evaluation and systems design work
 ---
 
 {% assign items = site.academic_projects %}
-{% if items and items.size > 0 %}
-  {% assign sorted = items | sort: "order" %}
-  {% for p in sorted %}
+{% if items %}
+  {% for p in items %}
 ### [{{ p.short_title | default: p.title }}]({{ p.url }})
 
 {% if p.summary %}
