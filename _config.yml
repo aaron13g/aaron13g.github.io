@@ -13,10 +13,10 @@ navbar-links:
   About: "aboutme"
   CV: "https://aaron13g.github.io/cv/"
 
-# --- Logo (disable for now) --- #
+# --- Logo --- #
 
-# Remove avatar for clean look
-# avatar: "/assets/img/g-logo-vice.png"
+# Uncomment once the image is added to /assets/img/profile.jpg
+# avatar: "/assets/img/profile.jpg"
 # round-avatar: true
 
 # --- Footer Social Links --- #
@@ -25,9 +25,6 @@ social-network-links:
   email: "aaronmgraifman@gmail.com"
   github: aaron13g
   linkedin: aaron-graifman
-
-# Disable RSS description (no blog yet)
-# rss-description:
 
 # --- General Options --- #
 
@@ -41,29 +38,33 @@ post_search: false
 
 # --- Colours --- #
 
-# Primary accent (Plum)
-navbar-col: "#4B1E3A"
+# Primary navy palette
+navbar-col: "#2C3E55"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#F7F2F5"
-navbar-border-col: "#3A162D"
+navbar-children-col: "#F4F7FA"
+navbar-border-col: "#1F2A3A"
 
 # Page
 page-col: "#FFFFFF"
 text-col: "#2A2A2A"
 
-# Links (Plum only)
-link-col: "#4B1E3A"
-hover-col: "#6A2A53"
+# Links
+link-col: "#2C3E55"
+hover-col: "#1F2A3A"
 
-# Footer (Neutral)
-footer-col: "#F4F4F6"
+# Footer
+footer-col: "#F4F7FA"
 footer-text-col: "#444444"
-footer-link-col: "#4B1E3A"
+footer-link-col: "#2C3E55"
+
+# --- Collections --- #
 
 collections:
   academic_projects:
     output: true
     permalink: /academic-projects/:name/
+
+# --- Build options --- #
 
 timezone: "America/Toronto"
 markdown: kramdown
@@ -73,7 +74,8 @@ permalink: /:year-:month-:day-:title/
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+# --- Default YAML values --- #
+
 defaults:
   -
     scope:
@@ -85,12 +87,12 @@ defaults:
       social-share: false
   -
     scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      path: ""
     values:
       layout: "page"
 
+# --- Exclude these files from production site --- #
 
-# Exclude these files from production site
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -103,9 +105,9 @@ exclude:
 
 plugins:
   - jekyll-sitemap
+
 site-css:
   - /assets/css/custom.css
-
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
