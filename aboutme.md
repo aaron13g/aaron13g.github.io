@@ -3,12 +3,17 @@ layout: page
 title: Aaron Graifman
 subtitle: Data Analytics | Program Evaluation | Decision Systems
 ---
+
 <div class="about-profile">
-  <img src="/assets/img/profile.jpg" alt="Aaron Graifman" class="about-profile__img">
+  <div class="about-profile__image-wrap">
+    <img src="/assets/img/profile.jpg" alt="Aaron Graifman" class="about-profile__img">
+  </div>
 
   <div class="about-profile__quote">
+    <div class="about-profile__quote-mark">“</div>
     <div class="about-profile__quote-text">
-      “Good analysis should make difficult decisions clearer, not more complicated.”
+      The first rule is to keep an untroubled spirit. The second is to look things in the face and see them for what they are. The third is to remember the map is not the territory. The fourth is to remember you still have to tread the territory to find out what is really there. 
+      - Marcus Aurelius (kinda)
     </div>
   </div>
 </div>
