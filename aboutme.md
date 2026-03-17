@@ -11,9 +11,13 @@ subtitle: Data Analytics | Program Evaluation | Decision Systems
 
   <div class="about-profile__quote">
     <div class="about-profile__quote-mark">“</div>
+
     <div class="about-profile__quote-text">
-The first rule is to keep an untroubled spirit. The second is to look things in the face and see them for what they are. The third is to remember the map is not the territory. The fourth is to remember you still have to tread the territory to find out what is really there. 
-      - Marcus Aurelius (kinda)
+      Keep an untroubled spirit. Look at things directly. Remember the map is not the territory. Then go into the territory and see what is really there.
+    </div>
+
+    <div class="about-profile__quote-attrib">
+      Inspired by Marcus Aurelius
     </div>
   </div>
 </div>
