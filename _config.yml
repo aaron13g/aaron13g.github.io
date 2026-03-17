@@ -7,7 +7,7 @@ author: Aaron Graifman
 # --- Navigation --- #
 
 navbar-links:
-  Home: ""
+  Home: "/"
   Academic Projects: "academic-projects"
   Tools: "tools"
   About: "aboutme"
