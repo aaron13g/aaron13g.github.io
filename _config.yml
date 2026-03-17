@@ -7,7 +7,7 @@ author: Aaron Graifman
 # --- Navigation --- #
 
 navbar-links:
-  Home: "/"
+  Home: ""
   Academic Projects: "academic-projects"
   Tools: "tools"
   About: "aboutme"
@@ -15,7 +15,6 @@ navbar-links:
 
 # --- Logo --- #
 
-# Uncomment once the image is added to /assets/img/profile.jpg
 # avatar: "/assets/img/profile.jpg"
 # round-avatar: true
 
@@ -36,23 +35,19 @@ share-links-active:
 
 post_search: false
 
-# --- Colours --- #
+# --- Colours (Navy Professional Theme) --- #
 
-# Primary navy palette
 navbar-col: "#2C3E55"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F4F7FA"
 navbar-border-col: "#1F2A3A"
 
-# Page
 page-col: "#FFFFFF"
 text-col: "#2A2A2A"
 
-# Links
 link-col: "#2C3E55"
 hover-col: "#1F2A3A"
 
-# Footer
 footer-col: "#F4F7FA"
 footer-text-col: "#444444"
 footer-link-col: "#2C3E55"
@@ -69,7 +64,9 @@ collections:
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+
+# FIXED: cleaner routing for non-blog site
+permalink: pretty
 
 kramdown:
   input: GFM
@@ -91,7 +88,7 @@ defaults:
     values:
       layout: "page"
 
-# --- Exclude these files from production site --- #
+# --- Exclude --- #
 
 exclude:
   - CHANGELOG.md
@@ -103,12 +100,15 @@ exclude:
   - screenshot.png
   - docs/
 
+# --- Plugins --- #
+
 plugins:
   - jekyll-sitemap
+
+# --- CSS --- #
 
 site-css:
   - /assets/css/custom.css
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
