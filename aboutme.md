@@ -3,13 +3,20 @@ layout: page
 title: Aaron Graifman
 subtitle: Data Analytics | Program Evaluation | Decision Systems
 ---
+<div class="about-profile">
+  <img src="/assets/img/profile.jpg" alt="Aaron Graifman" class="about-profile__img">
+
+  <div class="about-profile__quote">
+    <div class="about-profile__quote-text">
+      “Good analysis should make difficult decisions clearer, not more complicated.”
+    </div>
+  </div>
+</div>
 
 ## About
 
-I work in a county Employment & Human Services data unit, where I focus on data analysis, visualization, and structured problem-solving.
-
-I am currently completing an M.S. in Program Evaluation & Data Analytics at Arizona State University.
-
+I work at the Contra Costa County Employment & Human Services Data unit, where I focus on data analysis, visualization, and structured problem-solving.
+In addition to this, I am currently completing an M.S. in Program Evaluation & Data Analytics at Arizona State University.
 My work involves translating complex program data into clear analytical outputs that support operational and policy decisions.
 
 ---
