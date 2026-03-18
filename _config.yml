@@ -7,10 +7,10 @@ author: Aaron Graifman
 # --- Navigation --- #
 
 navbar-links:
-  Home: ""
-  Academic Projects: "academic-projects"
-  Tools: "tools"
-  About: "aboutme"
+  Home: "https://aaron13g.github.io/"
+  Academic Projects: "/academic-projects/"
+  Tools: "/tools/"
+  About: "/aboutme/"
   CV: "https://aaron13g.github.io/cv/"
 
 # --- Logo --- #
