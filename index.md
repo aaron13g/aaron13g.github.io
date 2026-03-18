@@ -17,7 +17,6 @@ subtitle: ""
   <div class="home-cta">
     <a class="btn btn-primary btn-lg" href="/cv/">View CV</a>
     <a class="btn btn-outline-primary btn-lg" href="/academic-projects/">Academic Projects</a>
-    <a class="btn btn-outline-primary btn-lg" href="/tools/">Tools</a>
   </div>
 </div>
 
