@@ -52,4 +52,4 @@ My work involves translating complex program data into clear analytical outputs 
 - Policy and program evaluation  
 - Reproducible analytics using R, Git, and RMarkdown  
 
-This website serves as a public portfolio of my analytical work and ongoing projects. via ASU Online
+This website serves as a public portfolio of my analytical work and ongoing projects
